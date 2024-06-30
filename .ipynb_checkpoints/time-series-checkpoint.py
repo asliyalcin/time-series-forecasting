@@ -23,8 +23,7 @@ from pandas.tseries.holiday import get_calendar, HolidayCalendarFactory, GoodFri
 from datetime import date
 
 from sklearn.preprocessing import MinMaxScaler
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import LSTM, Dense
+
 
 import holidays
 
