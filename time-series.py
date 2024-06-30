@@ -26,9 +26,7 @@ from sklearn.preprocessing import MinMaxScaler
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense
 
-from prophet import Prophet
 import holidays
-import tensorflow as tf
 
 from statsmodels.distributions.empirical_distribution import ECDF
 from statsmodels.tsa.seasonal import seasonal_decompose
@@ -37,7 +35,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # Data Loading
-df = pd.read_csv("train.csv", parse_dates=True, low_memory=False, index_col='Date')
+df = pd.read_csv("data.csv", parse_dates=True, low_memory=False, index_col='Date')
 store = pd.read_csv("store.csv", low_memory=False)
 
 # Preprocessing
