@@ -59,3 +59,14 @@ To run the project:
 
 ```bash
 python time_series_forecasting.py
+
+## References
+-(https://mlpills.dev/time-series/how-to-train-a-sarima-model-step-by-step)  access date: 26.12.2023
+-h(ttps://people.duke.edu/~rnau/411arim.htm#:~:text=A%20nonseasonal%20ARIMA%20model%20is,errors%20in%20the%20prediction%20equation)
+-Wanjuki T.M. & Wagala A. et. al,(2022), “Evaluating the Predictive Ability of Seasonal Autoregressive Integrated Moving Average (SARIMA) Models When Applied to Food and Beverages Price Index in Kenya”, EJ-MATH, European Journal of Mathematics and Statistics, 2736-5484, 29-31
+-Wanjuki T.M. & Wagala A. et. al,(2022), “Evaluating the Predictive Ability of Seasonal Autoregressive Integrated Moving Average (SARIMA) Models When Applied to Food and Beverages Price Index in Kenya”, EJ-MATH, European Journal of Mathematics and Statistics, 2736-5484, 29-31
+-(https://www.statisticshowto.com/adf-augmented-dickey-fuller-test)  access date: 24.12.2023 
+-(https://www.analyticsvidhya.com/blog/2021/06/statistical-tests-to-check-stationarity-in-time-series-part-1/)  access date: 24.12.2023
+-(https://permetrics.readthedocs.io/en/latest/pages/regression/RMSE.html) access date: 26.12.2023
+-(https://permetrics.readthedocs.io/en/latest/pages/regression/MAE.html) access date: 26.12.2023
+-(https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/pfusu/insights_metrics_MAPE.html#GUID-C33B0F01-83E9-468B-B96C-413A12882334) access date: 26.12.2023
