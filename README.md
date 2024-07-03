@@ -1,7 +1,7 @@
 # Time Series Forecasting with ARIMA and SARIMA Models
 
 This repository contains Python code for time series forecasting using ARIMA and SARIMA models, focusing on retail sales data analysis.
- - With this project, we will find answers to the following questions:
+With this project, we will find answers to the following questions:
  - Can we predict sales in businesses?
  - Which methods allow predicting the future from past data?
  - What kind of procedure should be followed in case of missing and erroneous data?
